@@ -30,5 +30,5 @@ an input.txt is already made and the output for it too, if you wanted to add com
 
 ## background
 this is the second asssingment of the course CPCS203 
-## Where you find me
+## Where you can find ME
 [Linked in](https://www.linkedin.com/in/rayan-ghabashi/)
