@@ -1,0 +1,36 @@
+Manager Mohammed added.
+Developer Hala added.
+Developer Fatima added.
+Developer Omar added.
+Developer Ahmed added.
+Developer Yousef added.
+Designer Khalid added.
+Designer Sara added.
+Designer Ali added.
+Designer Layla added.
+Leave approved for Fatima
+Leave approved for Khalid
+Leave approval failed. Either manager ID is incorrect or employee ID does not exist.
+Leave approval failed. Either manager ID is incorrect or employee ID does not exist.
+Leave approved for Sara
+Employee Khalid is now marked as working
+Cannot approve leave for Fatima as they are already on leave.
+Employee Fatima is now marked as working
+Leave approved for Fatima
+Employee removed sucessfully
+Employee removed sucessfully
+Employee with ID 15 is not found
+Name            ID    Salary     Bonus  
+Mohammed        1     60000.0    9000.0 
+Fatima          3     35000.0    4200.0 
+Omar            4     25000.0    3000.0 
+Yousef          6     45000.0    5400.0 
+Khalid          7     45000.0    4500.0 
+Sara            8     25000.0    2500.0 
+Ali             9     36000.0    3600.0 
+Layla           10    39000.0    3900.0 
+Leave records for Fatima:
+Start Date   Days of Leave
+2024-04-01   10           
+2024-08-12   5            
+
